@@ -1,0 +1,6 @@
+/node_modules
+/.env
+/package-lock.json
+/nexta/.next
+/.next
+/files

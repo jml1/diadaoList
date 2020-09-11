@@ -3,7 +3,6 @@ import { connect } from 'react-redux';
 import { Form, Table, Menu, Popup, Button, Icon, Checkbox } from 'semantic-ui-react';
 import { getTasks, registerTask, editTask, deleteTask } from "../../actions/taskActions";
 import Router from 'next/router';
-import Link from 'next/Link';
 import moment from 'moment';
 
 class Home extends React.Component {
