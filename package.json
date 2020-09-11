@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start-dev": "nodemon server.js",
     "inspect": "node --inspect-brk server.js",
-    "start": "pm2 start server.js --name \"puzzlesClash.com\""
+    "start": "pm2 start server.js --name \"diadao\""
   },
   "keywords": [
     "diadao"
