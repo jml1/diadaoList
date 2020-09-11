@@ -1,0 +1,34 @@
+{
+  "name": "diadao-simple-project",
+  "version": "1.0.0",
+  "description": "Diadao project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-dev": "nodemon server.js",
+    "inspect": "node --inspect-brk server.js",
+    "start": "pm2 start server.js --name \"puzzlesClash.com\""
+  },
+  "keywords": [
+    "diadao"
+  ],
+  "author": "Jamal ouali",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "dotenv": "^7.0.0",
+    "es6-promisify": "^6.1.1",
+    "express": "^4.17.1",
+    "helmet": "^3.23.3",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.1.0",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "sequelize": "^6.3.5",
+    "validator": "^10.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
