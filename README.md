@@ -11,18 +11,21 @@ cd ../ </br>
 (add .env file refer to exemple.env) </br>
 npm run start-dev 
 
+</br></br>
 
-Build With :
--nodejs
--express
--passport (jwt-strategy)
--sequelize (MySQL)
--next js (SSR React js)
--semantic-ui
+Build With :</br>
+-nodejs</br>
+-express</br>
+-passport (jwt-strategy)</br>
+-sequelize (MySQL)</br>
+-next js (SSR React js)</br>
+-semantic-ui</br>
 
-demo  => http://jmldev.site (production mode)
-admin => admin@admin.com 
-user1 => user1@user1.com
-user2 => user2@user2.com
+</br></br>
 
-password (for all acounts) => diadao
+demo  => http://jmldev.site (production mode)</br>
+admin => admin@admin.com </br>
+user1 => user1@user1.com </br>
+user2 => user2@user2.com </br>
+
+password (for all acounts) => diadao </br>
